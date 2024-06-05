@@ -32,7 +32,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Output
 
-https://github.com/VashuJain2024/Weather_Website/assets/167463558/b2fc34a0-5f83-4868-b5a6-6e806e637cbd
-
-
+https://github.com/VashuJain2024/Weather_Website/assets/167463558/c4099f33-9bbb-49ea-9eb4-f6f8f25abc1a
 
