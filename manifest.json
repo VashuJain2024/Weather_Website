@@ -3,11 +3,12 @@
   "name": "Weather App",
   "version": "1.0.0",
   "action": {
-    "default_index": "index.html"
+    "default_popup": "index.html"
   },
+  "permission": ["geolocation"],
   "content_scripts": [
     {
-      "matches": ["https://vashujain2024.github.io/Weather_Website/*"],
+      "matches": ["https://vashujain2024.github.io/Weather_Website/"],
       "js": ["script.js"]
     }
   ]
