@@ -5,7 +5,9 @@
   "action": {
     "default_popup": "index.html"
   },
-  "default_popup": "popup.html",
+  "page_action": {
+    "default_popup": "popup.html"
+  },
   "default_width": 600,
   "default_height": 600,
   "permission": ["geolocation"],
